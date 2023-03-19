@@ -24,7 +24,7 @@ The project involves the following steps:
 
 5. Prediction: Using the trained model to predict the sentiment of new customer reviews for "One Plus Nord CE 2 Lite 5g".
 
-## Requirements
+## [Requirements](https://github.com/koshtiakanksha/sentiment/blob/main/requirements.txt)
 
 - Python 3.x
 - Libraries: matplotlib, nltk, numpy, pandas, textblob, and wordcloud
